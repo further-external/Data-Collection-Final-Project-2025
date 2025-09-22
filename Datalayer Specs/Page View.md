@@ -6,7 +6,7 @@ dataLayer.push({
   "event": "pageView",
   "detailed_event": "Page View",
   "page_data": {
-    "page_url": "<page_url>"
+    "page_url": "<page_url>",
     "page_path": "page_path",
     "page_title": "page_title"
   }
